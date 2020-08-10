@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>amount</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Fund Sources - Update Read Only</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   if(!g_form.isNewRecord()) 
+{
+  //***Change the column names [1st parameter] as per your needs****//
+  g_form.setReadOnly('fiscal_year', true);
+  g_form.setReadOnly('name', true);
+ }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:11:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71001e79dbcd9850254ebc04b9961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fund Sources - Update Read Only</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_script_client_71001e79dbcd9850254ebc04b9961945</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:11:19</sys_updated_on>
+        <table>x_prop_tbm_federal_fund_sources</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

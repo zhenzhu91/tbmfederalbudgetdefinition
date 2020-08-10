@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_prop_tbm_federal_service_type</description>
+        <name>x_prop_tbm_federal_service_type</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 19:52:12</sys_created_on>
+        <sys_id>72fdb539db8d9850254ebc04b9961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prop_tbm_federal_service_type</sys_name>
+        <sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_security_acl_72fdb539db8d9850254ebc04b9961956</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 19:52:12</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_security_acl_72fdb539db8d9850254ebc04b9961956</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_prop_tbm_federal_service_type</description><name>x_prop_tbm_federal_service_type</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>zhen.zhu</sys_created_by><sys_created_on>2020-05-28 19:52:12</sys_created_on><sys_id>72fdb539db8d9850254ebc04b9961956</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_prop_tbm_federal_service_type</sys_name><sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>sys_security_acl_72fdb539db8d9850254ebc04b9961956</sys_update_name><sys_updated_by>zhen.zhu</sys_updated_by><sys_updated_on>2020-05-28 19:52:12</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-379465183</payload_hash>
+        <record_name>x_prop_tbm_federal_service_type</record_name>
+        <reverted_from/>
+        <source>1728f931db8d9850254ebc04b9961949</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 19:52:12</sys_created_on>
+        <sys_id>3afdb539db8d9850254ebc04b9961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725cd796870000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 19:52:12</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>72fdb539b48d98501cca98692b8ab158</update_guid>
+        <update_guid_history>72fdb539b48d98501cca98692b8ab158:-379465183</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-07-24 15:30:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>352cf738947e4fae92d84fd0c832e4a4</sys_id>
+        <sys_metadata>72fdb539db8d9850254ebc04b9961956</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prop_tbm_federal_service_type</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent display_value="">f2fdb539db8d9850254ebc04b9961967</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_security_acl_72fdb539db8d9850254ebc04b9961956</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_72fdb539db8d9850254ebc04b9961956">3afdb539db8d9850254ebc04b9961958</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:30:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

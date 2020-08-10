@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Summary - New Tab">2144d6bddbcd9850254ebc04b996193e</canvas_page>
+        <name>Summary - New Tab</name>
+        <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:29:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2544d6bddbcd9850254ebc04b9961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Summary - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>pa_tabs_2544d6bddbcd9850254ebc04b9961940</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:29:36</sys_updated_on>
+    </pa_tabs>
+</record_update>

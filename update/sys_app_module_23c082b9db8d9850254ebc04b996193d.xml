@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Budget Execution">61a8f1b1db8d9850254ebc04b99619f8</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_prop_tbm_federal_budget_execution">type=obligated^EQ<item display_value="Obligated" endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="obligated"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Obligations</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_prop_tbm_federal_budget_execution</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_prop_tbm_federal.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 20:05:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23c082b9db8d9850254ebc04b996193d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Obligations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_app_module_23c082b9db8d9850254ebc04b996193d</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-29 13:55:16</sys_updated_on>
+        <timeline_page/>
+        <title>Obligations</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

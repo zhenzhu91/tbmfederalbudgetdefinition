@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="TBM Federal Budget Definition" source="x_prop_tbm_budget">8233eec0db925450254ebc04b996190c</dependency>
+        <min_version>1.0.3</min_version>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-07-30 19:36:11</sys_created_on>
+        <sys_id>26761ecedbded850254ebc04b99619b0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-08-07 18:03:09</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_content_group">
+    <gsw_content_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <checksum>8EXUQgpL/Bq5jANxKBtdEdJFwzQ=</checksum>
+        <child_can_have_roles>false</child_can_have_roles>
+        <children_layout>1</children_layout>
+        <dependent_on_contents/>
+        <dependent_on_plugins/>
+        <dependent_on_plugins_ids/>
+        <description><![CDATA[<ol style="list-style-position: inside;" start="1" type="1"><li>Set Up Organizational Hierarchy
+<ol style="list-style-position: inside;" start="1" type="a"><li>Organizational hierarchy is relationship between branches, offices, or programs that report to the CIO or CFO. Configure the labeling of directorate levels to align budget submissions and approved budget to your area.</li></ol>
+</li></ol>
+<ol style="list-style-position: inside;"><li style="list-style: none;">
+<ol style="list-style-type: lower-alpha; list-style-position: inside;"><li style="list-style: none;">
+<ol style="list-style-type: lower-roman; list-style-position: inside;"><li>Populate with the c-suite directorate that your area supports</li><li>Populate with the areas that report to your directorate’s c-suite</li><li>Breakdown of the areas that support the c-suite directorate</li></ol>
+</li></ol>
+</li></ol>]]></description>
+        <display_child_max_num/>
+        <done_status_text/>
+        <hide_getting_started>false</hide_getting_started>
+        <icon>b7f8cecedb0dd850254ebc04b99619e4</icon>
+        <implicit_dependent_on/>
+        <implicit_plugin_dependencies/>
+        <is_root_content>false</is_root_content>
+        <order>100</order>
+        <parent display_value="Budget Formulation Setup">0d26394edbc9d850254ebc04b996193f</parent>
+        <parents>0d26394edbc9d850254ebc04b996193f</parents>
+        <progress_text/>
+        <roles/>
+        <root_intro_frame_link/>
+        <root_parent display_value="Budget Formulation Setup">0d26394edbc9d850254ebc04b996193f</root_parent>
+        <skippable>false</skippable>
+        <supports_child_content>true</supports_child_content>
+        <sys_class_name>gsw_content_group</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 14:33:24</sys_created_on>
+        <sys_id>435e79c2db0dd850254ebc04b9961907</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Set up Organizational Hierarchy</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>gsw_content_group_435e79c2db0dd850254ebc04b9961907</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-07-08 14:54:05</sys_updated_on>
+        <title>Set up Organizational Hierarchy</title>
+        <weight>1</weight>
+    </gsw_content_group>
+    <sys_translated_text action="delete_multiple" query="documentkey=435e79c2db0dd850254ebc04b9961907"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>1c62caab4e5ef41c0383424ec13c4a8d192e63fcfe35a56148ad2de6786598b4</hash>
+        <image_height>347</image_height>
+        <image_width>420</image_width>
+        <size_bytes>4792</size_bytes>
+        <size_compressed>3923</size_compressed>
+        <state>available</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:18:48</sys_created_on>
+        <sys_id>b7f8cecedb0dd850254ebc04b99619e4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:18:48</sys_updated_on>
+        <table_name>ZZ_YYgsw_content_group</table_name>
+        <table_sys_id>435e79c2db0dd850254ebc04b9961907</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="b7f8cecedb0dd850254ebc04b99619e4">b7f8cecedb0dd850254ebc04b99619e4</sys_attachment>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:18:48</sys_created_on>
+        <sys_id>f7f8cecedb0dd850254ebc04b99619e4</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5220</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="b7f8cecedb0dd850254ebc04b99619e4">b7f8cecedb0dd850254ebc04b99619e4</sys_attachment>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:18:48</sys_created_on>
+        <sys_id>7bf8cecedb0dd850254ebc04b99619e4</sys_id>
+    </sys_attachment_doc>
+</record_update>

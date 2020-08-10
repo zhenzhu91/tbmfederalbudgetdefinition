@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="57693be7dbc15090254ebc04b99619ef" sys_domain="global" table="x_prop_tbm_federal_budget_plan_modification" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-03 15:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3693be7dbc15090254ebc04b99619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_prop_tbm_federal_budget_plan_modification" name="x_prop_tbm_federal_budget_plan_modification" sys_domain="global" view="Default view">57693be7dbc15090254ebc04b99619ef</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_plan_modification" sys_domain="global" view="Default view">1c52af9bdb051090254ebc04b9961954</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-03 15:20:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-03 15:20:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3693be7dbc15090254ebc04b99619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_prop_tbm_federal_budget_plan_modification" name="x_prop_tbm_federal_budget_plan_modification" sys_domain="global" view="Default view">57693be7dbc15090254ebc04b99619ef</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_prop_tbm_federal_budget_plan_modification" sys_domain="global" view="Default view">97693be7dbc15090254ebc04b99619ed</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-03 15:20:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_prop_tbm_federal_budget_plan_modification</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-03 15:20:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57693be7dbc15090254ebc04b99619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_prop_tbm_federal_budget_plan_modification</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_ui_form_sections_57693be7dbc15090254ebc04b99619ef</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-03 15:20:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_content_group">
+    <gsw_content_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <checksum>6eYOw7AHjcr46vigr2RNuSM6R9M=</checksum>
+        <child_can_have_roles>false</child_can_have_roles>
+        <children_layout>1</children_layout>
+        <dependent_on_contents/>
+        <dependent_on_plugins/>
+        <dependent_on_plugins_ids/>
+        <description><![CDATA[<ol style="list-style-position: inside;" start="1" type="1"><li>Set Up Line of Accounts
+<ol style="list-style-position: inside;" start="1" type="a"><li>Line of accounts are the identifying data from the financial system that we want to track through budget execution that aren’t captured in the delivered table, like project ID or vendor. Configure the labels for your desired financial metadata you want to capture during budget formulation.</li></ol>
+</li></ol>]]></description>
+        <display_child_max_num/>
+        <done_status_text/>
+        <hide_getting_started>false</hide_getting_started>
+        <icon>262a4e02db4dd850254ebc04b9961937</icon>
+        <implicit_dependent_on/>
+        <implicit_plugin_dependencies/>
+        <is_root_content>false</is_root_content>
+        <order>200</order>
+        <parent display_value="Budget Formulation Setup">0d26394edbc9d850254ebc04b996193f</parent>
+        <parents>0d26394edbc9d850254ebc04b996193f</parents>
+        <progress_text/>
+        <roles/>
+        <root_intro_frame_link/>
+        <root_parent display_value="Budget Formulation Setup">0d26394edbc9d850254ebc04b996193f</root_parent>
+        <skippable>true</skippable>
+        <supports_child_content>true</supports_child_content>
+        <sys_class_name>gsw_content_group</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 14:36:51</sys_created_on>
+        <sys_id>655f7186db0dd850254ebc04b9961989</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Set up Line of Accounts</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>gsw_content_group_655f7186db0dd850254ebc04b9961989</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-07-08 14:54:31</sys_updated_on>
+        <title>Set up Line of Accounts</title>
+        <weight>1</weight>
+    </gsw_content_group>
+    <sys_translated_text action="delete_multiple" query="documentkey=655f7186db0dd850254ebc04b9961989"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>7834d46af092348268a94e4f15a5f531bc3b5233fbd1b80e42c38ea6bd99f76f</hash>
+        <image_height>273</image_height>
+        <image_width>399</image_width>
+        <size_bytes>5914</size_bytes>
+        <size_compressed>5385</size_compressed>
+        <state>available</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:23:54</sys_created_on>
+        <sys_id>262a4e02db4dd850254ebc04b9961937</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:23:54</sys_updated_on>
+        <table_name>ZZ_YYgsw_content_group</table_name>
+        <table_sys_id>655f7186db0dd850254ebc04b9961989</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="262a4e02db4dd850254ebc04b9961937">262a4e02db4dd850254ebc04b9961937</sys_attachment>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:23:54</sys_created_on>
+        <sys_id>662a4e02db4dd850254ebc04b9961937</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>7168</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="262a4e02db4dd850254ebc04b9961937">262a4e02db4dd850254ebc04b9961937</sys_attachment>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 15:23:54</sys_created_on>
+        <sys_id>e62a4e02db4dd850254ebc04b9961937</sys_id>
+    </sys_attachment_doc>
+</record_update>

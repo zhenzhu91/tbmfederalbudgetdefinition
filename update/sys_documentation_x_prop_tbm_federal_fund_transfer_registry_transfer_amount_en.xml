@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="transfer_amount" label="Transfer Amount" language="en" table="x_prop_tbm_federal_fund_transfer_registry">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>transfer_amount</element>
+            <help/>
+            <hint/>
+            <label>Transfer Amount</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_fund_transfer_registry</name>
+            <plural>Transfer Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-04 15:07:19</sys_created_on>
+            <sys_id>0aef740cdb159090254ebc04b996190e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Transfer Amount</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_documentation_x_prop_tbm_federal_fund_transfer_registry_transfer_amount_en</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:29:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference">
+    <sys_ui_hp_reference action="INSERT_OR_UPDATE">
+        <publisher_reference display_value="Department">9ac45abddbcd9850254ebc04b9961932</publisher_reference>
+        <reference_field>department</reference_field>
+        <reference_table>x_prop_tbm_federal_budget_formulation</reference_table>
+        <sys_class_name>sys_ui_hp_reference</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:32:25</sys_created_on>
+        <sys_id>bce492fddbcd9850254ebc04b996199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9ac45abddbcd9850254ebc04b9961932</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_ui_hp_reference_bce492fddbcd9850254ebc04b996199f</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:32:25</sys_updated_on>
+    </sys_ui_hp_reference>
+</record_update>

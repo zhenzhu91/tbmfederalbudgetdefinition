@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Budget Formulation activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_prop_tbm_federal_budget_formulation_activity.fields</name>
+        <read_roles/>
+        <suffix>x_prop_tbm_federal</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:50:58</sys_created_on>
+        <sys_id>b6295eb1db01d850254ebc04b99619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_prop_tbm_federal_budget_formulation_activity.fields</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_properties_b6295eb1db01d850254ebc04b99619da</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:50:58</sys_updated_on>
+        <type>string</type>
+        <value>id,fund_source,budget_line_item,description,cost_pool,cost_sub_pool,it_resource_sub_tower,budget_amount,application,service,comments,config_org_1,config_org_2,config_org_3,department,document_number,expense_type,loa_1,loa_2,loa_3,revised_budget,watch_list,*Attachments*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6295eb1db01d850254ebc04b99619da"/>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>admin,x_prop_fm_app.cost_model_admin,x_prop_tbm_federal.fund_transfer_registry_admin,x_prop_tbm_federal.approver,x_prop_tbm_federal.analyst,x_prop_tbm_federal.admin,x_prop_fm_app.itfm_view_segments,x_prop_fm_app.fm_basic_user,x_prop_fm_app.itfm_analyst,x_prop_fm_app.itfm_end_user,x_prop_fm_app.itfm_financial_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 13:56:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ff5b14edbc9d850254ebc04b9961994</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Budget Administration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM - Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM - Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_app_application_6ff5b14edbc9d850254ebc04b9961994</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-08-03 17:04:17</sys_updated_on>
+        <title>Budget Administration</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_app_application_6ff5b14edbc9d850254ebc04b9961994</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>admin,x_prop_fm_app.cost_model_admin,x_prop_tbm_federal.fund_transfer_registry_admin,x_prop_tbm_federal.approver,x_prop_tbm_federal.analyst,x_prop_tbm_federal.admin,x_prop_fm_app.itfm_view_segments,x_prop_fm_app.fm_basic_user,x_prop_fm_app.itfm_analyst,x_prop_fm_app.itfm_end_user,x_prop_fm_app.itfm_financial_admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>zhen.zhu</sys_created_by><sys_created_on>2020-05-29 13:56:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ff5b14edbc9d850254ebc04b9961994</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Budget Administration</sys_name><sys_overrides/><sys_package display_value="TBM - Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM - Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>sys_app_application_6ff5b14edbc9d850254ebc04b9961994</sys_update_name><sys_updated_by>zhen.zhu</sys_updated_by><sys_updated_on>2020-08-03 17:04:17</sys_updated_on><title>Budget Administration</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-565696694</payload_hash>
+        <record_name>Budget Administration</record_name>
+        <reverted_from/>
+        <source>1728f931db8d9850254ebc04b9961949</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-08-03 17:04:17</sys_created_on>
+        <sys_id>a41ada5bdb921090254ebc04b99619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b547f13e0000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-08-03 17:04:17</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>6c1ada5bb59210901c6ed3f69e899dd0</update_guid>
+        <update_guid_history>6c1ada5bb59210901c6ed3f69e899dd0:-565696694,f706b14efec9d8501dabcfa5d7be524b:-1388920037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Budget Administration">6a4a9a5bdb921090254ebc04b99619d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-08-03 17:05:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>339f9a50431d497d987e55964123ad39</sys_id>
+        <sys_metadata>6ff5b14edbc9d850254ebc04b9961994</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Budget Administration</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_app_application_6ff5b14edbc9d850254ebc04b9961994</sys_update_name>
+        <sys_update_version display_value="sys_app_application_6ff5b14edbc9d850254ebc04b9961994">a41ada5bdb921090254ebc04b99619d1</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-08-03 17:05:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0bb7c54cdb159090254ebc04b9961952" sys_domain="global" table="x_prop_tbm_federal_fund_transfer_registry" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from_fund</element>
+            <position>0</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-05 13:52:32</sys_created_on>
+            <sys_id>d868f5dcdb15d090254ebc04b99619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_fund_transfer_registry" sys_domain="global" view="Default view">0bb7c54cdb159090254ebc04b9961952</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:52:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_fund</element>
+            <position>1</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-05 13:52:32</sys_created_on>
+            <sys_id>5068f5dcdb15d090254ebc04b99619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_fund_transfer_registry" sys_domain="global" view="Default view">0bb7c54cdb159090254ebc04b9961952</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:52:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-05 13:52:32</sys_created_on>
+            <sys_id>d468f5dcdb15d090254ebc04b99619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_fund_transfer_registry" sys_domain="global" view="Default view">0bb7c54cdb159090254ebc04b9961952</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:52:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fund_amount</element>
+            <position>3</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-05 13:52:32</sys_created_on>
+            <sys_id>50687ddcdb15d090254ebc04b9961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_fund_transfer_registry" sys_domain="global" view="Default view">0bb7c54cdb159090254ebc04b9961952</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:52:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transfer_amount</element>
+            <position>4</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-05 13:52:32</sys_created_on>
+            <sys_id>d4687ddcdb15d090254ebc04b9961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_fund_transfer_registry" sys_domain="global" view="Default view">0bb7c54cdb159090254ebc04b9961952</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-05 13:52:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_prop_tbm_federal_fund_transfer_registry</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-06-04 15:41:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bb7c54cdb159090254ebc04b9961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_prop_tbm_federal_fund_transfer_registry</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_ui_section_0bb7c54cdb159090254ebc04b9961952</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-06-04 15:41:31</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

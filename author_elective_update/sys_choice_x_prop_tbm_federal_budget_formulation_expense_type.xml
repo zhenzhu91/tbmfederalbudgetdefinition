@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="expense_type" table="x_prop_tbm_federal_budget_formulation" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>expense_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Run</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <sequence>1</sequence>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:37:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e2a7db1db8d9850254ebc04b996191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:37:39</sys_updated_on>
+            <value>run</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>expense_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grow</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <sequence>2</sequence>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:37:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d59a7135db8d9850254ebc04b99619a5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:37:41</sys_updated_on>
+            <value>grow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>expense_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transform</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <sequence>3</sequence>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:37:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>929ab9f1db8d9850254ebc04b99619fa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:37:43</sys_updated_on>
+            <value>transform</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>expense_type</element>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:37:20</sys_created_on>
+            <sys_id>119af535db8d9850254ebc04b996191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>expense_type</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_choice_x_prop_tbm_federal_budget_formulation_expense_type</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:37:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

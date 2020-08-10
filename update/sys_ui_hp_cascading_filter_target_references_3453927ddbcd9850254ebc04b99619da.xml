@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_cascading_filter_target_references">
+    <sys_ui_hp_cascading_filter_target_references action="INSERT_OR_UPDATE">
+        <cascading_filter display_value="Fund Source">25b29a3ddbcd9850254ebc04b9961972</cascading_filter>
+        <filter_field>budget_line_item.fund_source</filter_field>
+        <sys_class_name>sys_ui_hp_cascading_filter_target_references</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:25:38</sys_created_on>
+        <sys_id>3453927ddbcd9850254ebc04b99619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>budget_line_item.fund_source</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_ui_hp_cascading_filter_target_references_3453927ddbcd9850254ebc04b99619da</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:25:38</sys_updated_on>
+        <target_table>x_prop_tbm_federal_budget_execution</target_table>
+    </sys_ui_hp_cascading_filter_target_references>
+</record_update>

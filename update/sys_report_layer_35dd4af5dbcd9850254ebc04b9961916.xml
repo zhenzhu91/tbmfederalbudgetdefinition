@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_layer">
+    <sys_report_layer action="INSERT_OR_UPDATE">
+        <aggregate>SUM</aggregate>
+        <allow_data_label_overlap>false</allow_data_label_overlap>
+        <bar_unstack>false</bar_unstack>
+        <color display_value="PROP - Teal Green">c9d9c2f1dbcd9850254ebc04b996195d</color>
+        <color_palette display_value="Blues light to dark (5)">b22671cdd7500200b96d45a3ce6103ee</color_palette>
+        <colors/>
+        <compute_percent>aggregate</compute_percent>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
+        <field/>
+        <filter/>
+        <import_table/>
+        <interval>year</interval>
+        <list_ui_view/>
+        <report display_value="Budget vs Execution">57adc6f5dbcd9850254ebc04b99619ae</report>
+        <report_source/>
+        <sequence>1</sequence>
+        <series_name_text>Fund Source</series_name_text>
+        <set_color>one_color</set_color>
+        <show_2nd_y_axis>false</show_2nd_y_axis>
+        <show_chart_data_label>false</show_chart_data_label>
+        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_marker>false</show_marker>
+        <source_type>table</source_type>
+        <style_config/>
+        <sumfield>amount</sumfield>
+        <sys_class_name>sys_report_layer</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:01:29</sys_created_on>
+        <sys_id>35dd4af5dbcd9850254ebc04b9961916</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fund Source</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_report_layer_35dd4af5dbcd9850254ebc04b9961916</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-01 13:32:38</sys_updated_on>
+        <table>x_prop_tbm_federal_fund_sources</table>
+        <trend_field>fiscal_year.fiscal_start_date_time</trend_field>
+        <type>line</type>
+        <use_null_in_trend>false</use_null_in_trend>
+        <y_axis_from/>
+        <y_axis_title/>
+        <y_axis_to/>
+    </sys_report_layer>
+</record_update>

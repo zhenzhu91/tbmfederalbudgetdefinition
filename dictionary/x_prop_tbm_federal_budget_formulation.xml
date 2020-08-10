@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Budget Formulation" max_length="40" name="x_prop_tbm_federal_budget_formulation" type="collection">
+        <element label="Budget  Amount" mandatory="true" max_length="20" name="budget_amount" type="currency"/>
+        <element label="Budget Line Item" mandatory="true" max_length="40" name="budget_line_item" type="string"/>
+        <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
+        <element label="Config Org 1" max_length="40" name="config_org_1" type="string"/>
+        <element label="Config Org 2" max_length="40" name="config_org_2" type="string"/>
+        <element label="Config Org 3" max_length="40" name="config_org_3" type="string"/>
+        <element label="Cost Pool" max_length="32" name="cost_pool" reference="x_prop_tbm_budget_cost_pool" type="reference"/>
+        <element label="Cost Sub-Pool" max_length="32" name="cost_sub_pool" reference="x_prop_tbm_budget_cost_sub_pool" type="reference"/>
+        <element label="Department" mandatory="true" max_length="32" name="department" reference="cmn_department" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Document Number" max_length="40" name="document_number" type="string"/>
+        <element choice="3" default="run" label="Expense Type" mandatory="true" max_length="40" name="expense_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Run" sequence="1" value="run"/>
+                <element inactive_on_update="false" label="Grow" sequence="2" value="grow"/>
+                <element inactive_on_update="false" label="Transform" sequence="3" value="transform"/>
+            </choice>
+        </element>
+        <element label="Fund Source" mandatory="true" max_length="32" name="fund_source" reference="x_prop_tbm_federal_fund_sources" type="reference"/>
+        <element display="true" label="ID" mandatory="true" max_length="40" name="id" type="string"/>
+        <element label="IT Resource Sub-Tower" max_length="32" name="it_resource_sub_tower" reference="x_prop_tbm_budget_it_resource_sub_tower" type="reference"/>
+        <element label="LOA 1" max_length="40" name="loa_1" type="string"/>
+        <element label="LOA 2" max_length="40" name="loa_2" type="string"/>
+        <element label="LOA 3" max_length="40" name="loa_3" type="string"/>
+        <element label="Original Budget Amount" max_length="20" name="original_budget_amount" read_only="true" type="currency"/>
+        <element choice="3" default="draft" label="State" max_length="40" name="state" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="1" value="draft"/>
+                <element inactive_on_update="false" label="Submitted" sequence="2" value="submitted"/>
+                <element inactive_on_update="false" label="Reviewed" sequence="3" value="reviewed"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rar"/>
+                <element inactive_on_update="false" label="Rejected" sequence="5" value="not approved"/>
+                <element inactive_on_update="false" label="Approved" sequence="6" value="approved"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Watch List" max_length="4000" name="watch_list" reference="sys_user" type="glide_list"/>
+        <index name="index">
+            <element name="cost_sub_pool"/>
+        </index>
+        <index name="index2">
+            <element name="fund_source"/>
+        </index>
+        <index name="index3">
+            <element name="cost_pool"/>
+        </index>
+        <index name="index4">
+            <element name="id"/>
+        </index>
+        <index name="index5">
+            <element name="department"/>
+        </index>
+        <index name="index6">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index7">
+            <element name="it_resource_sub_tower"/>
+        </index>
+    </element>
+</database>

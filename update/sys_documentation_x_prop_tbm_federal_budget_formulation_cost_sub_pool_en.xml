@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cost_sub_pool" label="Cost Sub-Pool" language="en" table="x_prop_tbm_federal_budget_formulation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cost_sub_pool</element>
+            <help/>
+            <hint/>
+            <label>Cost Sub-Pool</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <plural>Cost Sub-Pools</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-07-24 15:33:35</sys_created_on>
+            <sys_id>ea65a6c4db925450254ebc04b9961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cost Sub-Pool</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_documentation_x_prop_tbm_federal_budget_formulation_cost_sub_pool_en</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-07-24 15:33:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

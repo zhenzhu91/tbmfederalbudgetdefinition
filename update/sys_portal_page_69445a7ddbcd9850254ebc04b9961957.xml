@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-10 17:58:12">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 21:29:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69445a7ddbcd9850254ebc04b9961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Summary - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_portal_page_69445a7ddbcd9850254ebc04b9961957</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-05-28 21:29:35</sys_updated_on>
+        <title>PA Summary - New Tab</title>
+        <user/>
+        <view>pa_summary_-_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Filter Budget Line Item</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                <sys_id>1bcccd83dbcd9c50254ebc04b99619ae</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>1fcccd83dbcd9c50254ebc04b99619af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>5bcccd83dbcd9c50254ebc04b99619af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>5fcccd83dbcd9c50254ebc04b99619b0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>93cccd83dbcd9c50254ebc04b99619b0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>Filter Budget Line Item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>dfcccd83dbcd9c50254ebc04b99619ae</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>38721a3ddbcd9850254ebc04b996190f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-06-01 06:29:44">1bcccd83dbcd9c50254ebc04b99619ae</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-06-01 13:29:44</sys_created_on>
+                        <sys_id>dfcccd83dbcd9c50254ebc04b99619af</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-06-01 13:29:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Department</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                <sys_id>2705d2fddbcd9850254ebc04b9961969</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>2705d2fddbcd9850254ebc04b996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>Department</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>6305d2fddbcd9850254ebc04b996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>6b05d2fddbcd9850254ebc04b996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>a705d2fddbcd9850254ebc04b9961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>9ac45abddbcd9850254ebc04b9961932</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>af05d2fddbcd9850254ebc04b9961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:33:01">2705d2fddbcd9850254ebc04b9961969</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:01</sys_created_on>
+                        <sys_id>eb05d2fddbcd9850254ebc04b9961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:01</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget Execution by Budget Line Item</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                <sys_id>2c9496bddbcd9850254ebc04b996190f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>2c9496bddbcd9850254ebc04b9961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3125dabddbcd9850254ebc04b996197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3125dabddbcd9850254ebc04b996197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3525dabddbcd9850254ebc04b996197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3525dabddbcd9850254ebc04b996197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3925dabddbcd9850254ebc04b996197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3925dabddbcd9850254ebc04b996197f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3d25dabddbcd9850254ebc04b996197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:26</sys_created_on>
+                        <sys_id>3d25dabddbcd9850254ebc04b996197e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>689496bddbcd9850254ebc04b9961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>a49496bddbcd9850254ebc04b9961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>ac9496bddbcd9850254ebc04b996190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>611a8ef1dbcd9850254ebc04b9961983</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>e09496bddbcd9850254ebc04b9961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:53">2c9496bddbcd9850254ebc04b996190f</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:53</sys_created_on>
+                        <sys_id>ec9496bddbcd9850254ebc04b9961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:53</sys_updated_on>
+                        <value>Budget Execution by Budget Line Item</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget Plans</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                <sys_id>2e841abddbcd9850254ebc04b99619b3</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>2e841abddbcd9850254ebc04b99619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>6a841abddbcd9850254ebc04b99619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>91251ebddbcd9850254ebc04b996199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>91251ebddbcd9850254ebc04b996199b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>95251ebddbcd9850254ebc04b996199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>95251ebddbcd9850254ebc04b996199b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>99251ebddbcd9850254ebc04b996199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>99251ebddbcd9850254ebc04b996199b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>9d251ebddbcd9850254ebc04b9961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:23</sys_created_on>
+                        <sys_id>9d251ebddbcd9850254ebc04b996199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>a6841abddbcd9850254ebc04b99619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>ae841abddbcd9850254ebc04b99619b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>645d42f5dbcd9850254ebc04b996195a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>e2841abddbcd9850254ebc04b99619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:45">2e841abddbcd9850254ebc04b99619b3</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:45</sys_created_on>
+                        <sys_id>ee841abddbcd9850254ebc04b99619b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:45</sys_updated_on>
+                        <value>Budget Plans</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget vs Execution</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                <sys_id>3664d2bddbcd9850254ebc04b996194b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>221592fddbcd9850254ebc04b9961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>221592fddbcd9850254ebc04b9961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>261592fddbcd9850254ebc04b9961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>261592fddbcd9850254ebc04b9961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>2a1592fddbcd9850254ebc04b9961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>2a1592fddbcd9850254ebc04b9961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>2e1592fddbcd9850254ebc04b9961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:12</sys_created_on>
+                        <sys_id>2e1592fddbcd9850254ebc04b9961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:12</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>3664d2bddbcd9850254ebc04b996194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>line</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>7264d2bddbcd9850254ebc04b996194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>b664d2bddbcd9850254ebc04b996194b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>57adc6f5dbcd9850254ebc04b99619ae</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>be64d2bddbcd9850254ebc04b996194b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>f664d2bddbcd9850254ebc04b996194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>Budget vs Execution</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:13">3664d2bddbcd9850254ebc04b996194b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:13</sys_created_on>
+                        <sys_id>fa64d2bddbcd9850254ebc04b996194b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:13</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget Execution</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                <sys_id>9f845abddbcd9850254ebc04b99619d7</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>13845abddbcd9850254ebc04b99619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>448c86b5dbcd9850254ebc04b9961975</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>1b845abddbcd9850254ebc04b99619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>222516fddbcd9850254ebc04b99619c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>222516fddbcd9850254ebc04b99619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>262516fddbcd9850254ebc04b99619c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>262516fddbcd9850254ebc04b99619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>2a2516fddbcd9850254ebc04b99619c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>2a2516fddbcd9850254ebc04b99619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>2e2516fddbcd9850254ebc04b99619c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:29</sys_created_on>
+                        <sys_id>2e2516fddbcd9850254ebc04b99619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:29</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>53845abddbcd9850254ebc04b99619d9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>Budget Execution</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>57845abddbcd9850254ebc04b99619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>9f845abddbcd9850254ebc04b99619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:48">9f845abddbcd9850254ebc04b99619d7</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:48</sys_created_on>
+                        <sys_id>db845abddbcd9850254ebc04b99619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Fund Sources</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                <sys_id>b17456bddbcd9850254ebc04b9961907</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>357456bddbcd9850254ebc04b9961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>7b6e0639dbcd9850254ebc04b9961959</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>3d7456bddbcd9850254ebc04b9961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>757456bddbcd9850254ebc04b9961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>Fund Sources</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>797456bddbcd9850254ebc04b9961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>831596fddbcd9850254ebc04b996195a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>831596fddbcd9850254ebc04b996195b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>871596fddbcd9850254ebc04b9961959</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>871596fddbcd9850254ebc04b996195a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>8b1596fddbcd9850254ebc04b9961959</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>8b1596fddbcd9850254ebc04b996195a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>8f1596fddbcd9850254ebc04b9961959</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:15</sys_created_on>
+                        <sys_id>8f1596fddbcd9850254ebc04b996195a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>b17456bddbcd9850254ebc04b9961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:25">b17456bddbcd9850254ebc04b9961907</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:25</sys_created_on>
+                        <sys_id>fd7456bddbcd9850254ebc04b9961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget Plan Breakdown by Cost Pool</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                <sys_id>c484d6bddbcd9850254ebc04b9961953</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>0484d6bddbcd9850254ebc04b9961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>4084d6bddbcd9850254ebc04b9961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>4884d6bddbcd9850254ebc04b9961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>53bccab5dbcd9850254ebc04b996190a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>8884d6bddbcd9850254ebc04b9961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>Budget Plan Breakdown by Cost Pool</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>8c84d6bddbcd9850254ebc04b9961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:35</sys_created_on>
+                        <sys_id>c484d6bddbcd9850254ebc04b9961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:35</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>f31592fddbcd9850254ebc04b996197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>f31592fddbcd9850254ebc04b996197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>f71592fddbcd9850254ebc04b996197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>f71592fddbcd9850254ebc04b996197d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>fb1592fddbcd9850254ebc04b996197b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>fb1592fddbcd9850254ebc04b996197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>ff1592fddbcd9850254ebc04b996197b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:35">c484d6bddbcd9850254ebc04b9961953</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:17</sys_created_on>
+                        <sys_id>ff1592fddbcd9850254ebc04b996197c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Summary - New Tab">69445a7ddbcd9850254ebc04b9961957</page>
+                <summary>Budget Plan Breakdown by IT Tower</summary>
+                <sys_created_by>zhen.zhu</sys_created_by>
+                <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                <sys_id>f48496bddbcd9850254ebc04b996190b</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>zhen.zhu</sys_updated_by>
+                <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>348496bddbcd9850254ebc04b996190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>708496bddbcd9850254ebc04b996190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>788496bddbcd9850254ebc04b996190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>530dceb5dbcd9850254ebc04b9961981</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>902512fddbcd9850254ebc04b99619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>902512fddbcd9850254ebc04b99619f1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>942512fddbcd9850254ebc04b99619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>942512fddbcd9850254ebc04b99619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>982512fddbcd9850254ebc04b99619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>982512fddbcd9850254ebc04b99619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>9c2512fddbcd9850254ebc04b99619ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:33:20</sys_created_on>
+                        <sys_id>9c2512fddbcd9850254ebc04b99619f0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:33:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>b88496bddbcd9850254ebc04b996190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>Budget Plan Breakdown by IT Tower</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>bc8496bddbcd9850254ebc04b996190b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-05-28 14:30:37">f48496bddbcd9850254ebc04b996190b</portal_section>
+                        <sys_created_by>zhen.zhu</sys_created_by>
+                        <sys_created_on>2020-05-28 21:30:37</sys_created_on>
+                        <sys_id>f48496bddbcd9850254ebc04b996190c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>zhen.zhu</sys_updated_by>
+                        <sys_updated_on>2020-05-28 21:30:37</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

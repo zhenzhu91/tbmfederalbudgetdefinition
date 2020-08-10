@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_content_information">
+    <gsw_content_information action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article><![CDATA[<p>The admins have general access to the budget formulation application and reports/dashboards.  However they cannot perform the following functions:</p>
+<ul style="list-style-position: inside;"><li>Creating budget line item</li><li>Approving budget line item</li></ul>]]></article>
+        <best_practice_acceptable>false</best_practice_acceptable>
+        <dependent_on_contents/>
+        <dependent_on_plugins/>
+        <dependent_on_plugins_ids/>
+        <description/>
+        <embedded_help_qualifier/>
+        <end_point>sys_user_group.do?sys_id=55863ff9db4e5c10254ebc04b9961984</end_point>
+        <end_point_open_mode>2</end_point_open_mode>
+        <end_point_type>1</end_point_type>
+        <field/>
+        <filter/>
+        <filter_result/>
+        <implicit_dependent_on/>
+        <implicit_plugin_dependencies/>
+        <is_dynamic>false</is_dynamic>
+        <more_info_available>false</more_info_available>
+        <more_info_html/>
+        <order>100</order>
+        <parent display_value="Set up Groups">32608ac6db0dd850254ebc04b99619ef</parent>
+        <parents>32608ac6db0dd850254ebc04b99619ef,0d26394edbc9d850254ebc04b996193f</parents>
+        <plugin_id/>
+        <property_name/>
+        <property_value/>
+        <quick_startable>false</quick_startable>
+        <root_parent display_value="Budget Formulation Setup">0d26394edbc9d850254ebc04b996193f</root_parent>
+        <skippable>true</skippable>
+        <supports_child_content>false</supports_child_content>
+        <sys_class_name>gsw_content_information</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-29 14:44:31</sys_created_on>
+        <sys_id>74c0ce86db0dd850254ebc04b996199c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Set up Admin Group</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>gsw_content_information_74c0ce86db0dd850254ebc04b996199c</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-07-17 22:02:51</sys_updated_on>
+        <table/>
+        <title>Set up Admin Group</title>
+        <weight>1</weight>
+    </gsw_content_information>
+    <sys_translated_text action="delete_multiple" query="documentkey=74c0ce86db0dd850254ebc04b996199c"/>
+</record_update>

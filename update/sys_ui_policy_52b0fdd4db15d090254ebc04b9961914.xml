@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+		g_form.setDisplay('original_fund_amount', 'true');
+	}
+]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+var originalAmount = g_form.getDecimalValue('original_fund_amount');
+var fundAmount = g_form.getDecimalValue('amount');
+	if (originalAmount == fundAmount || originalAmount == '0') {
+		g_form.setDisplay('original_fund_amount', 'false');
+	
+	}
+}]]></script_true>
+        <set_values/>
+        <short_description>Make Original Budget Amount Not Visible</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-06-05 13:19:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>52b0fdd4db15d090254ebc04b9961914</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Make Original Budget Amount Not Visible</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_ui_policy_52b0fdd4db15d090254ebc04b9961914</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-05 13:20:40</sys_updated_on>
+        <table>x_prop_tbm_federal_fund_sources</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

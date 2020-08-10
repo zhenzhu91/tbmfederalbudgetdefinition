@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="loa_3" label="LOA 3" language="en" table="x_prop_tbm_federal_budget_formulation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>loa_3</element>
+            <help/>
+            <hint/>
+            <label>LOA 3</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_formulation</name>
+            <plural>LOA 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:33:30</sys_created_on>
+            <sys_id>cdb979f1db8d9850254ebc04b99619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LOA 3</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_documentation_x_prop_tbm_federal_budget_formulation_loa_3_en</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:33:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

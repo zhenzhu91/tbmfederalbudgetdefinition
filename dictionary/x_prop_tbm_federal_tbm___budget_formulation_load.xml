@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="TBM - Budget Formulation Load" max_length="40" name="x_prop_tbm_federal_tbm___budget_formulation_load" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Application" label="Application" max_length="40" name="u_application" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Budget Line Item" label="Budget Line Item" max_length="40" name="u_budget_line_item" type="string"/>
+        <element attributes="import_attribute_name=Budget  Amount" label="Budget  Amount" max_length="40" name="u_budget__amount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Config Org 1" label="Config Org 1" max_length="40" name="u_config_org_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Config Org 2" label="Config Org 2" max_length="40" name="u_config_org_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Config Org 3" label="Config Org 3" max_length="40" name="u_config_org_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost Pool" label="Cost Pool" max_length="40" name="u_cost_pool" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost Sub-Pool" label="Cost Sub-Pool" max_length="40" name="u_cost_sub_pool" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Department" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Document Number" label="Document Number" max_length="40" name="u_document_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Expense Type" label="Expense Type" max_length="40" name="u_expense_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fund Source" label="Fund Source" max_length="40" name="u_fund_source" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT Resource Sub-Tower" label="IT Resource Sub-Tower" max_length="40" name="u_it_resource_sub_tower" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOA 1" label="LOA 1" max_length="40" name="u_loa_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOA 2" label="LOA 2" max_length="40" name="u_loa_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOA 3" label="LOA 3" max_length="40" name="u_loa_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service" label="Service" max_length="40" name="u_service" type="string"/>
+    </element>
+</database>

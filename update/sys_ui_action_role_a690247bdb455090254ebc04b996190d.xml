@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-06-03 18:12:11</sys_created_on>
+        <sys_id>a690247bdb455090254ebc04b996190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Save.x_prop_tbm_federal.analyst</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_ui_action display_value="Save">8faf50f7db455090254ebc04b99619b4</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_a690247bdb455090254ebc04b996190d</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-03 18:12:11</sys_updated_on>
+        <sys_user_role display_value="x_prop_tbm_federal.analyst" name="x_prop_tbm_federal.analyst">17383931db8d9850254ebc04b99619c1</sys_user_role>
+    </sys_ui_action_role>
+</record_update>

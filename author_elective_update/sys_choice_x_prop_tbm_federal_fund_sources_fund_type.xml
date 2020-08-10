@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fund_type" table="x_prop_tbm_federal_fund_sources" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>fund1</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_fund_sources</name>
+            <sequence>0</sequence>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-29 14:51:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1b28e4adb0dd850254ebc04b996199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-29 14:51:20</sys_updated_on>
+            <value>fund1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fund_type</element>
+            <name>x_prop_tbm_federal_fund_sources</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-29 14:51:20</sys_created_on>
+            <sys_id>6db28e4adb0dd850254ebc04b996199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fund_type</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_choice_x_prop_tbm_federal_fund_sources_fund_type</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-29 14:51:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

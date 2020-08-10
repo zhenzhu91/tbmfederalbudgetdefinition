@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_chart_color_schemes">
+    <pa_chart_color_schemes action="INSERT_OR_UPDATE">
+        <color_1 display_value="PROP - Teal Green">c9d9c2f1dbcd9850254ebc04b996195d</color_1>
+        <color_10 display_value="PROP - Orange Yellow">802aca19db159010254ebc04b996191b</color_10>
+        <color_11/>
+        <color_12/>
+        <color_13/>
+        <color_14/>
+        <color_15/>
+        <color_16/>
+        <color_17/>
+        <color_18/>
+        <color_19/>
+        <color_2 display_value="PROP - Royal Blue">12c94af1dbcd9850254ebc04b996191b</color_2>
+        <color_20/>
+        <color_21/>
+        <color_22/>
+        <color_23/>
+        <color_24/>
+        <color_25/>
+        <color_26/>
+        <color_27/>
+        <color_28/>
+        <color_29/>
+        <color_3 display_value="PROP - Queen Pink">6ab9c6f1dbcd9850254ebc04b9961961</color_3>
+        <color_30/>
+        <color_31/>
+        <color_32/>
+        <color_4 display_value="PROP - Medium Slate Blue">dcb982f1dbcd9850254ebc04b99619be</color_4>
+        <color_5 display_value="PROP - Light blue">eea98671dbcd9850254ebc04b99619a7</color_5>
+        <color_6 display_value="PROP - Dark Blue">5899c2f1dbcd9850254ebc04b996199c</color_6>
+        <color_7 display_value="PROP - Kelly Green">95b90a19db159010254ebc04b996190b</color_7>
+        <color_8 display_value="PROP - Blue Munsel">7ae9ca19db159010254ebc04b9961917</color_8>
+        <color_9 display_value="PROP - Paradise Pink">7ff98219db159010254ebc04b996196e</color_9>
+        <description/>
+        <name>PROP - Color Schemes for Reports</name>
+        <sys_class_name>pa_chart_color_schemes</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-05-28 20:52:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>75bb0a75dbcd9850254ebc04b9961922</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PROP - Color Schemes for Reports</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>pa_chart_color_schemes_75bb0a75dbcd9850254ebc04b9961922</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-08 17:44:18</sys_updated_on>
+    </pa_chart_color_schemes>
+    <sys_translated_text action="delete_multiple" query="documentkey=75bb0a75dbcd9850254ebc04b9961922"/>
+</record_update>

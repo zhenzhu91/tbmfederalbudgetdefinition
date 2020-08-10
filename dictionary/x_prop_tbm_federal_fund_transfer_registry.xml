@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Fund Transfer Registry" max_length="40" name="x_prop_tbm_federal_fund_transfer_registry" type="collection">
+        <element label="From Fund" mandatory="true" max_length="32" name="from_fund" reference="x_prop_tbm_federal_fund_sources" type="reference"/>
+        <element label="Fund Amount" mandatory="true" max_length="20" name="fund_amount" read_only="true" type="currency"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="To Fund" mandatory="true" max_length="32" name="to_fund" reference="x_prop_tbm_federal_fund_sources" type="reference"/>
+        <element label="Transfer Amount" mandatory="true" max_length="20" name="transfer_amount" type="currency"/>
+        <element label="Transfer Applied" max_length="40" name="transfer_applied" type="boolean"/>
+        <index name="index">
+            <element name="from_fund"/>
+        </index>
+        <index name="index2">
+            <element name="to_fund"/>
+        </index>
+    </element>
+</database>

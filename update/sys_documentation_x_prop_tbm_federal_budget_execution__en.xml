@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Budget Execution" language="en" table="x_prop_tbm_federal_budget_execution">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Budget Execution</label>
+            <language>en</language>
+            <name>x_prop_tbm_federal_budget_execution</name>
+            <plural>Budget Executions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-05-28 19:28:54</sys_created_on>
+            <sys_id>b1a835b1db8d9850254ebc04b996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Budget Execution</sys_name>
+            <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+            <sys_update_name>sys_documentation_x_prop_tbm_federal_budget_execution__en</sys_update_name>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-05-28 19:28:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
