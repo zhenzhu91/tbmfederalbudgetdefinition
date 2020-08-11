@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="TBM - Services Load" max_length="40" name="x_prop_tbm_federal_tbm___services_load" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service Category" label="Service Category" max_length="49" name="u_service_category" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service Type" label="Service Type" max_length="40" name="u_service_type" type="string"/>
-    </element>
-</database>

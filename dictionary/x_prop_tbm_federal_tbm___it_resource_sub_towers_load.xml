@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="TBM - IT Resource Sub-Towers Load" max_length="40" name="x_prop_tbm_federal_tbm___it_resource_sub_towers_load" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=IT Resource Tower" label="IT Resource Tower" max_length="40" name="u_it_resource_tower" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
-    </element>
-</database>
