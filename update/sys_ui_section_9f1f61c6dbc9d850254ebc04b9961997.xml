@@ -1,100 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="9f1f61c6dbc9d850254ebc04b9961997" sys_domain="global" table="x_prop_tbm_federal_budget_execution" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>budget_line_item</element>
+            <element>date</element>
             <position>0</position>
             <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-05-29 13:26:00</sys_created_on>
-            <sys_id>272fa5c6dbc9d850254ebc04b9961903</sys_id>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>e6ca3392db3e5010afdb3437b99619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
             <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-29 13:26:00</sys_updated_on>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_line_item</element>
+            <position>1</position>
+            <sys_created_by>zhen.zhu</sys_created_by>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>eeca3392db3e5010afdb3437b99619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
+            <sys_updated_by>zhen.zhu</sys_updated_by>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-05-29 13:26:00</sys_created_on>
-            <sys_id>ab2fa5c6dbc9d850254ebc04b9961903</sys_id>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>62ca3392db3e5010afdb3437b99619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
             <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-29 13:26:00</sys_updated_on>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-05-29 13:26:00</sys_created_on>
-            <sys_id>232fa5c6dbc9d850254ebc04b9961904</sys_id>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>e2ca3392db3e5010afdb3437b99619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
             <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-29 13:26:00</sys_updated_on>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>amount</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-05-29 13:26:00</sys_created_on>
-            <sys_id>a72fa5c6dbc9d850254ebc04b9961904</sys_id>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>66ca3392db3e5010afdb3437b99619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
             <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-29 13:26:00</sys_updated_on>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>document_number</element>
-            <position>4</position>
-            <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-05-29 13:26:00</sys_created_on>
-            <sys_id>2f2fa5c6dbc9d850254ebc04b9961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
-            <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-29 13:26:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date</element>
             <position>5</position>
             <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-07-17 16:21:25</sys_created_on>
-            <sys_id>c33d6e39db4a5c10254ebc04b99619c5</sys_id>
+            <sys_created_on>2020-08-25 18:04:20</sys_created_on>
+            <sys_id>e6ca3392db3e5010afdb3437b99619f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
             <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-07-17 16:21:25</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fiscal_period</element>
-            <position>6</position>
-            <sys_created_by>zhen.zhu</sys_created_by>
-            <sys_created_on>2020-07-17 16:21:26</sys_created_on>
-            <sys_id>cf3d6e39db4a5c10254ebc04b99619cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_prop_tbm_federal_budget_execution" sys_domain="global" view="Default view">9f1f61c6dbc9d850254ebc04b9961997</sys_ui_section>
-            <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-07-17 16:21:26</sys_updated_on>
+            <sys_updated_on>2020-08-25 18:04:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-11 16:05:36">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-25 19:04:47">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
-        <order/>
-        <read_roles/>
+        <order>30001</order>
+        <read_roles>x_prop_tbm_federal.admin,x_prop_tbm_federal.analyst,x_prop_tbm_federal.approver,x_prop_tbm_federal.basic_user,x_prop_tbm_federal.fund_transfer_registry_admin</read_roles>
         <roles/>
         <selectable>false</selectable>
         <sys_class_name>sys_portal_page</sys_class_name>
@@ -11,7 +11,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>69445a7ddbcd9850254ebc04b9961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>PA Summary - New Tab</sys_name>
         <sys_overrides/>
         <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
@@ -19,7 +19,7 @@
         <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
         <sys_update_name>sys_portal_page_69445a7ddbcd9850254ebc04b9961957</sys_update_name>
         <sys_updated_by>zhen.zhu</sys_updated_by>
-        <sys_updated_on>2020-05-28 21:29:35</sys_updated_on>
+        <sys_updated_on>2020-08-25 17:59:55</sys_updated_on>
         <title>PA Summary - New Tab</title>
         <user/>
         <view>pa_summary_-_new_tab_1</view>

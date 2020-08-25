@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="DELETE">
+        <col_name_string>name</col_name_string>
+        <index_col_name element="name" name="x_prop_tbm_federal_cost_sub_pools">a38bbd35db8d9850254ebc04b9961967</index_col_name>
+        <logical_table_name>x_prop_tbm_federal_cost_sub_pools</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-06-08 16:26:50</sys_created_on>
+        <sys_id>8a787119dbd19010afdb3437b99619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prop_tbm_federal_cost_sub_pools</sys_name>
+        <sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_index_x_prop_tbm_federal_cost_sub_pools_name</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-06-08 16:26:50</sys_updated_on>
+        <table/>
+        <unique_index>false</unique_index>
+    </sys_index>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_index_x_prop_tbm_federal_cost_sub_pools_name</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index"><sys_index action="INSERT_OR_UPDATE"><col_name_string>name</col_name_string><index_col_name element="name" name="x_prop_tbm_federal_cost_sub_pools">a38bbd35db8d9850254ebc04b9961967</index_col_name><logical_table_name>x_prop_tbm_federal_cost_sub_pools</logical_table_name><sys_class_name>sys_index</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2020-06-08 16:26:50</sys_created_on><sys_id>8a787119dbd19010afdb3437b99619b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_prop_tbm_federal_cost_sub_pools</sys_name><sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>sys_index_x_prop_tbm_federal_cost_sub_pools_name</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-06-08 16:26:50</sys_updated_on><table/><unique_index>false</unique_index></sys_index></record_update>]]></payload>
+        <payload_hash>2061914811</payload_hash>
+        <record_name>Cost Sub-Pools: Name</record_name>
+        <reverted_from/>
+        <source>1728f931db8d9850254ebc04b9961949</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-07-24 15:30:46</sys_created_on>
+        <sys_id>c5c42684db925450254ebc04b996191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738172b8880000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-07-24 15:30:46</sys_updated_on>
+        <type>Indexes</type>
+        <update_guid>4e78b11947d190103563e292c27d3f67</update_guid>
+        <update_guid_history>4e78b11947d190103563e292c27d3f67:1809633950,4e78b11947d190103563e292c27d3f67:1809633950</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-08-25 17:58:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_index">sys_index</sys_db_object>
+        <sys_id>22c8ba9b75cf404091f67ac070b350d9</sys_id>
+        <sys_metadata>8a787119dbd19010afdb3437b99619b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prop_tbm_federal_cost_sub_pools</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_index_x_prop_tbm_federal_cost_sub_pools_name</sys_update_name>
+        <sys_update_version display_value="sys_index_x_prop_tbm_federal_cost_sub_pools_name">c5c42684db925450254ebc04b996191c</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-08-25 17:58:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

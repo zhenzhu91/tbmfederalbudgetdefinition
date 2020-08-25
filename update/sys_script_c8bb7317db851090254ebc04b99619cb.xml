@@ -32,7 +32,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	current.original_budget_amount = current.budget_amount;
-	current.update();
+
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c8bb7317db851090254ebc04b99619cb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Update Original Budget Amount</sys_name>
         <sys_overrides/>
         <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
@@ -49,9 +49,9 @@
         <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
         <sys_update_name>sys_script_c8bb7317db851090254ebc04b99619cb</sys_update_name>
         <sys_updated_by>zhen.zhu</sys_updated_by>
-        <sys_updated_on>2020-06-02 20:52:28</sys_updated_on>
+        <sys_updated_on>2020-08-25 18:04:49</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=c8bb7317db851090254ebc04b99619cb"/>
 </record_update>
