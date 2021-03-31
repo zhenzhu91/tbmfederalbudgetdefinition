@@ -45,7 +45,7 @@
         <reference_floats>false</reference_floats>
         <reference_key/>
         <reference_qual>state=approved^EQ</reference_qual>
-        <reference_qual_condition table="x_prop_tbm_federal_budget_formulation">state=approved^EQ<item display_value="Approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="approved"/>
+        <reference_qual_condition table="x_prop_tbm_federal_budget_formulation">state=approved^EQ<item display_value="approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="approved"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>

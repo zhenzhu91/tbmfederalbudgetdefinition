@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="config_org_3" label="Config Org 3" language="en" table="x_prop_tbm_federal_budget_formulation">
+    <sys_documentation element="config_org_3" label="Org 3 / Open" language="en" table="x_prop_tbm_federal_budget_formulation">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>config_org_3</element>
             <help/>
             <hint/>
-            <label>Config Org 3</label>
+            <label>Org 3 / Open</label>
             <language>en</language>
             <name>x_prop_tbm_federal_budget_formulation</name>
-            <plural>Config Org 3s</plural>
+            <plural>Org 3 / Opens</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>zhen.zhu</sys_created_by>
             <sys_created_on>2020-05-28 19:33:30</sys_created_on>
             <sys_id>8db979f1db8d9850254ebc04b99619a3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Config Org 3</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Org 3 / Open</sys_name>
             <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
             <sys_policy/>
             <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
             <sys_update_name>sys_documentation_x_prop_tbm_federal_budget_formulation_config_org_3_en</sys_update_name>
-            <sys_updated_by>zhen.zhu</sys_updated_by>
-            <sys_updated_on>2020-05-28 19:33:30</sys_updated_on>
+            <sys_updated_by>nick.reade</sys_updated_by>
+            <sys_updated_on>2021-03-04 22:38:35</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

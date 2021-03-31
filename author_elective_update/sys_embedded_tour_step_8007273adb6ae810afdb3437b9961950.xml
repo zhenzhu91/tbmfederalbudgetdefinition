@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="DELETE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="div[id=&quot;label.x_prop_tbm_federal_budget_">8407273adb6ae810afdb3437b996194e</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[An approved budget line item will only have a read only Budget Amount.  ]]></content>
+        <guide display_value="Modify an Approved Budget Line Item">1b33a3b6db6ae810afdb3437b9961973</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>1</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:50:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8007273adb6ae810afdb3437b9961950</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_8007273adb6ae810afdb3437b9961950</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 16:53:57</sys_updated_on>
+        <target/>
+        <target_ref display_value="div[id=&quot;label.x_prop_tbm_federal_budget_">8407273adb6ae810afdb3437b996194e</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_prop_tbm_federal_budget_formulation.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="DELETE" query="documentkey=8007273adb6ae810afdb3437b9961950"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_embedded_tour_step_8007273adb6ae810afdb3437b9961950</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;action_event&gt;next&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="div[id=&amp;quot;label.x_prop_tbm_federal_budget_"&gt;8407273adb6ae810afdb3437b996194e&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[An approved budget line item will only have a read only Budget Amount.  ]]&gt;&lt;/content&gt;&lt;guide display_value="Modify an Approved Budget Line Item"&gt;1b33a3b6db6ae810afdb3437b9961973&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"step_view":""}&lt;/options&gt;&lt;order&gt;1&lt;/order&gt;&lt;placement&gt;bottom&lt;/placement&gt;&lt;skippable&gt;false&lt;/skippable&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;zhen.zhu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-01 15:50:17&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8007273adb6ae810afdb3437b9961950&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal"&gt;9b28f931db8d9850254ebc04b9961946&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TBM Federal Budget Formulation"&gt;9b28f931db8d9850254ebc04b9961946&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_8007273adb6ae810afdb3437b9961950&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;zhen.zhu&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-01 16:53:57&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="div[id=&amp;quot;label.x_prop_tbm_federal_budget_"&gt;8407273adb6ae810afdb3437b996194e&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;x_prop_tbm_federal_budget_formulation.do&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8007273adb6ae810afdb3437b9961950"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1331403248</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bed39a44db3c2810afdb3437b99619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 16:53:57</sys_created_on>
+        <sys_id>ec957332dbaae810afdb3437b9961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177eeb5f28a0000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 16:53:57</sys_updated_on>
+        <type>Guided Tour Step</type>
+        <update_guid>64957332c7aae810055691838b27b895</update_guid>
+        <update_guid_history>64957332c7aae810055691838b27b895:-1331403248,50957332b4aae810e57f597c9321bc6a:-392713041,c407273a926ae810a1d00599977a0f51:545977166</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 17:03:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_step">sys_embedded_tour_step</sys_db_object>
+        <sys_id>4a51173e92064320ab3e7e56037e2400</sys_id>
+        <sys_metadata>8007273adb6ae810afdb3437b9961950</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_step_8007273adb6ae810afdb3437b9961950</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_step_8007273adb6ae810afdb3437b9961950">ec957332dbaae810afdb3437b9961995</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 17:03:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

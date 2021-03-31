@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Usage by Requestor">aaed481d9f902200ef4afa7dc67fcf50</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>api_analytics_read</identity>
+        <read>true</read>
+        <role display_value="api_analytics_read" name="api_analytics_read">94f673079fb01200ef4afa7dc67fcf97</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>carter.christley</sys_created_by>
+        <sys_created_on>2020-05-29 21:37:15</sys_created_on>
+        <sys_id>679f5f8edb411c50254ebc04b99619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>api_analytics_read</sys_name>
+        <sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_679f5f8edb411c50254ebc04b99619d7</sys_update_name>
+        <sys_updated_by>carter.christley</sys_updated_by>
+        <sys_updated_on>2020-05-29 21:37:15</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>pa_dashboards_permissions_679f5f8edb411c50254ebc04b99619d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="Usage by Requestor">aaed481d9f902200ef4afa7dc67fcf50</dashboard><delete>false</delete><group/><identity>api_analytics_read</identity><read>true</read><role display_value="api_analytics_read" name="api_analytics_read">94f673079fb01200ef4afa7dc67fcf97</role><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>carter.christley</sys_created_by><sys_created_on>2020-05-29 21:37:15</sys_created_on><sys_id>679f5f8edb411c50254ebc04b99619d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>api_analytics_read</sys_name><sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>pa_dashboards_permissions_679f5f8edb411c50254ebc04b99619d7</sys_update_name><sys_updated_by>carter.christley</sys_updated_by><sys_updated_on>2020-05-29 21:37:15</sys_updated_on><type>1</type><user/><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-1963509098</payload_hash>
+        <record_name>api_analytics_read</record_name>
+        <reverted_from/>
+        <source>1728f931db8d9850254ebc04b9961949</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>carter.christley</sys_created_by>
+        <sys_created_on>2020-05-29 21:37:15</sys_created_on>
+        <sys_id>e79f5f8edb411c50254ebc04b99619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172625e228f0000001</sys_recorded_at>
+        <sys_updated_by>carter.christley</sys_updated_by>
+        <sys_updated_on>2020-05-29 21:37:15</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>239f5f8ef4411c502d210c44d7ca86d8</update_guid>
+        <update_guid_history>239f5f8ef4411c502d210c44d7ca86d8:-1963509098</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="api_analytics_read">a0cbeaacdb932c10d5a4c3591396193a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nick.reade</sys_created_by>
+        <sys_created_on>2021-03-31 18:32:13</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>2f2663ef4b1f47f6b7422c7ceaf8d9c9</sys_id>
+        <sys_metadata>679f5f8edb411c50254ebc04b99619d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>api_analytics_read</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_679f5f8edb411c50254ebc04b99619d7</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_679f5f8edb411c50254ebc04b99619d7">e79f5f8edb411c50254ebc04b99619d8</sys_update_version>
+        <sys_updated_by>nick.reade</sys_updated_by>
+        <sys_updated_on>2021-03-31 18:32:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

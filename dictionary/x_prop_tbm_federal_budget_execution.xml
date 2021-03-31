@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Budget Execution" max_length="40" name="x_prop_tbm_federal_budget_execution" type="collection">
+    <element label="Budget Execution" max_length="40" name="x_prop_tbm_federal_budget_execution" sizeclass="475" type="collection">
         <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
         <element label="Budget Line Item" mandatory="true" max_length="32" name="budget_line_item" reference="x_prop_tbm_federal_budget_formulation" reference_cascade_rule="delete" reference_qual="state=approved^EQ" reference_qual_condition="state=approved^EQ" type="reference"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
         <element label="Document Number" max_length="40" name="document_number" type="string"/>
         <element label="Fiscal Period" max_length="32" name="fiscal_period" read_only="true" reference="fiscal_period" type="reference"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element choice="3" default="committed" label="Type" mandatory="true" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Committed" sequence="1" value="committed"/>

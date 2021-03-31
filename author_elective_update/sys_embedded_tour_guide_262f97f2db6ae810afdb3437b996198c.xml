@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="DELETE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>x_prop_tbm_federal_budget_formulation</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>Create a Budget Line Item</name>
+        <options/>
+        <roles/>
+        <sp_page/>
+        <sp_portal/>
+        <status>published</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:16:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>262f97f2db6ae810afdb3437b996198c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Create a Budget Line Item</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_262f97f2db6ae810afdb3437b996198c</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 15:28:55</sys_updated_on>
+        <tour_id>TOUR0000003</tour_id>
+        <type>platform</type>
+    </sys_embedded_tour_guide>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_embedded_tour_guide_262f97f2db6ae810afdb3437b996198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide"><sys_embedded_tour_guide action="INSERT_OR_UPDATE"><active>true</active><additional_parameters/><autolaunch_order>0</autolaunch_order><context>x_prop_tbm_federal_budget_formulation</context><description/><has_concl>true</has_concl><has_intro>true</has_intro><name>Create a Budget Line Item</name><options/><roles/><sp_page/><sp_portal/><status>published</status><sys_class_name>sys_embedded_tour_guide</sys_class_name><sys_created_by>zhen.zhu</sys_created_by><sys_created_on>2021-03-01 15:16:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>262f97f2db6ae810afdb3437b996198c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Create a Budget Line Item</sys_name><sys_overrides/><sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>sys_embedded_tour_guide_262f97f2db6ae810afdb3437b996198c</sys_update_name><sys_updated_by>zhen.zhu</sys_updated_by><sys_updated_on>2021-03-01 15:28:55</sys_updated_on><tour_id>TOUR0000003</tour_id><type>platform</type></sys_embedded_tour_guide></record_update>]]></payload>
+        <payload_hash>-1313818437</payload_hash>
+        <record_name>Create a Budget Line Item</record_name>
+        <reverted_from/>
+        <source>bed39a44db3c2810afdb3437b99619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:28:55</sys_created_on>
+        <sys_id>47122b76db6ae810afdb3437b99619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ee6817b40000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 15:28:55</sys_updated_on>
+        <type>Guided Tour</type>
+        <update_guid>b61223766a6ae810b0308c5e3c8b4be6</update_guid>
+        <update_guid_history>b61223766a6ae810b0308c5e3c8b4be6:-1313818437,195fdff2416ae8105ac276bb7e3bc392:-1429742802,d84f13365c6ae81021467dfc45fb8724:-1016050355,a62f97f23d6ae8102eb4e3be1017ce8d:-1666090184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-02 14:26:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_guide">sys_embedded_tour_guide</sys_db_object>
+        <sys_id>2a85ce000af140f8b9c016a9756a2e69</sys_id>
+        <sys_metadata>262f97f2db6ae810afdb3437b996198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a Budget Line Item</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_guide_262f97f2db6ae810afdb3437b996198c</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_guide_262f97f2db6ae810afdb3437b996198c">47122b76db6ae810afdb3437b99619d2</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-02 14:26:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

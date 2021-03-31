@@ -2,7 +2,7 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2020-06-17 14:26:37</change_date>
         <changed_by display_value="Nick Reade">5b78a3f3db0c1010afdb3437b99619e0</changed_by>
-        <content display_value="Load Application Indicators and Compute Application Scores">a43111fc870103008a4a578c87cb0b3a</content>
+        <content display_value="JOB: Load Application Indicators and Compute Application Scores">a43111fc870103008a4a578c87cb0b3a</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

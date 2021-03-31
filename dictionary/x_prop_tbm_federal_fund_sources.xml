@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Fund Sources" max_length="40" name="x_prop_tbm_federal_fund_sources" type="collection">
+    <element label="Fund Sources" max_length="40" name="x_prop_tbm_federal_fund_sources" sizeclass="18" type="collection">
         <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
         <element label="Approvers" max_length="4000" name="approvers" reference="sys_user" type="glide_list"/>
         <element label="Fiscal Year" mandatory="true" max_length="32" name="fiscal_year" reference="fiscal_period" reference_qual="fiscal_type=year^EQ" reference_qual_condition="fiscal_type=year^EQ" type="reference"/>
         <element choice="1" label="Fund Type" mandatory="true" max_length="40" name="fund_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="fund1" sequence="0" value="fund1"/>
+                <element inactive_on_update="false" label="Current Year" sequence="1" value="Current Year"/>
+                <element inactive_on_update="false" label="Prior Year Cary Over" sequence="2" value="Prior Year Cary Over"/>
             </choice>
         </element>
         <element display="true" label="ID" max_length="100" name="id" type="string"/>
@@ -13,7 +15,7 @@
         <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element label="Original Fund Amount" max_length="20" name="original_fund_amount" read_only="true" type="currency"/>
         <element label="Reviewers" max_length="4000" name="reviewers" reference="sys_user" type="glide_list"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <index name="index">
             <element name="fiscal_year"/>
         </index>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element">
+    <sys_embedded_tour_element action="DELETE">
+        <cell_edit/>
+        <cell_types/>
+        <col/>
+        <cxs_results/>
+        <element_type>label</element_type>
+        <field/>
+        <field_action/>
+        <field_header/>
+        <filters/>
+        <form_buttons>additional_actions</form_buttons>
+        <form_element>field</form_element>
+        <form_section/>
+        <frameset>nav_filter</frameset>
+        <list_element>ui_action</list_element>
+        <list_header/>
+        <manual_css>div[id="label.x_prop_tbm_federal_budget_formulation.budget_amount"] label.col-xs-12.col-md-3.col-lg-4.control-label</manual_css>
+        <name>div[id="label.x_prop_tbm_federal_budget_</name>
+        <record_id/>
+        <related_field/>
+        <related_links/>
+        <related_list_element>ui_action</related_list_element>
+        <related_lists/>
+        <related_table/>
+        <row/>
+        <sys_class_name>sys_embedded_tour_element</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:50:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8407273adb6ae810afdb3437b996194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>div[id="label.x_prop_tbm_federal_budget_</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_embedded_tour_element_8407273adb6ae810afdb3437b996194e</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 15:50:17</sys_updated_on>
+        <table/>
+        <type>manual_css</type>
+        <ui_action/>
+    </sys_embedded_tour_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_embedded_tour_element_8407273adb6ae810afdb3437b996194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_element"><sys_embedded_tour_element action="INSERT_OR_UPDATE"><cell_edit/><cell_types/><col/><cxs_results/><element_type>label</element_type><field/><field_action/><field_header/><filters/><form_buttons>additional_actions</form_buttons><form_element>field</form_element><form_section/><frameset>nav_filter</frameset><list_element>ui_action</list_element><list_header/><manual_css>div[id="label.x_prop_tbm_federal_budget_formulation.budget_amount"] label.col-xs-12.col-md-3.col-lg-4.control-label</manual_css><name>div[id="label.x_prop_tbm_federal_budget_</name><record_id/><related_field/><related_links/><related_list_element>ui_action</related_list_element><related_lists/><related_table/><row/><sys_class_name>sys_embedded_tour_element</sys_class_name><sys_created_by>zhen.zhu</sys_created_by><sys_created_on>2021-03-01 15:50:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8407273adb6ae810afdb3437b996194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>div[id="label.x_prop_tbm_federal_budget_</sys_name><sys_overrides/><sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package><sys_policy/><sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope><sys_update_name>sys_embedded_tour_element_8407273adb6ae810afdb3437b996194e</sys_update_name><sys_updated_by>zhen.zhu</sys_updated_by><sys_updated_on>2021-03-01 15:50:17</sys_updated_on><table/><type>manual_css</type><ui_action/></sys_embedded_tour_element></record_update>]]></payload>
+        <payload_hash>-590756174</payload_hash>
+        <record_name>div[id="label.x_prop_tbm_federal_budget_</record_name>
+        <reverted_from/>
+        <source>bed39a44db3c2810afdb3437b99619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:50:17</sys_created_on>
+        <sys_id>4c07273adb6ae810afdb3437b996194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ee7baa3d0000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 15:50:17</sys_updated_on>
+        <type>Guided Tour Element</type>
+        <update_guid>4407273a576ae8103d976b668da8334f</update_guid>
+        <update_guid_history>4407273a576ae8103d976b668da8334f:-590756174</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 17:03:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_element">sys_embedded_tour_element</sys_db_object>
+        <sys_id>4aa9a5dd85cb4620ab6a5a97bd4be400</sys_id>
+        <sys_metadata>8407273adb6ae810afdb3437b996194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>div[id="label.x_prop_tbm_federal_budget_</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_element_8407273adb6ae810afdb3437b996194e</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_element_8407273adb6ae810afdb3437b996194e">4c07273adb6ae810afdb3437b996194f</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 17:03:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

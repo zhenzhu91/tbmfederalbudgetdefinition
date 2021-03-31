@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_prop_tbm_federal_budget_plan_modification</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Prevent Duplicate Modifications</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+var record = new GlideRecord('x_prop_tbm_federal_budget_plan_modification');
+record.addQuery('budget_line_item', current.budget_line_item);
+record.addQuery('state','!=' ,'approved').addOrCondition('state' , '!=', 'rar').addOrCondition('state' , '!=', 'not approved');
+record.query();
+if (record.next()) {
+gs.addErrorMessage("A prior nodification for budget line item already exists and has not yet been approved. Current modification record was not added.");
+	current.setAbortAction(true);
+
+}
+})(current, previous);
+
+]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-06-03 14:38:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e33f63afdb815090254ebc04b9961904</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Prevent Duplicate Modifications</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM - Federal - Budget">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_script_e33f63afdb815090254ebc04b9961904</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-03 17:57:54</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=e33f63afdb815090254ebc04b9961904"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</application>
+        <file_path/>
+        <instance_id>04cafdf7db08d054413450b6f49619e5</instance_id>
+        <instance_name>ven03658</instance_name>
+        <name>sys_script_e33f63afdb815090254ebc04b9961904</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_prop_tbm_federal_budget_plan_modification&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Prevent Duplicate Modifications&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+var record = new GlideRecord('x_prop_tbm_federal_budget_plan_modification');
+record.addQuery('budget_line_item', current.budget_line_item);
+record.addQuery('state','!=' ,'approved').addOrCondition('state' , '!=', 'rar').addOrCondition('state' , '!=', 'not approved');
+record.query();
+if (record.next()) {
+gs.addErrorMessage("A prior nodification for budget line item already exists and has not yet been approved. Current modification record was not added.");
+	current.setAbortAction(true);
+
+}
+})(current, previous);
+
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;zhen.zhu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-06-03 14:38:20&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e33f63afdb815090254ebc04b9961904&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Prevent Duplicate Modifications&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="TBM - Federal - Budget" source="x_prop_tbm_federal"&gt;9b28f931db8d9850254ebc04b9961946&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TBM - Federal - Budget"&gt;9b28f931db8d9850254ebc04b9961946&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_e33f63afdb815090254ebc04b9961904&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;zhen.zhu&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-06-03 17:57:54&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e33f63afdb815090254ebc04b9961904"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>808359890</payload_hash>
+        <record_name>Prevent Duplicate Modifications</record_name>
+        <reverted_from/>
+        <source>1728f931db8d9850254ebc04b9961949</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2020-06-03 17:57:54</sys_created_on>
+        <sys_id>0b5dd073db455090254ebc04b9961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727b5519750000001</sys_recorded_at>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2020-06-03 17:57:54</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>cf5dd07308455090a228e1753713bf64</update_guid>
+        <update_guid_history>cf5dd07308455090a228e1753713bf64:808359890,1041d4fb64055090bf3bd544c93a4696:2143417985,b0b9bbe70ec15090dc2c30f002afe7be:-552982400,f019f3e7ddc15090fd0cec727d37295a:-26098035,0dd733a7aac15090f40cc63133b14f10:-367528070,ba00bbafa981509059dbf8148a1420fd:213582946,88ff6faf8b815090d5cb41516cd7a798:451276783,37af6baf8381509064b2fd518988f92c:-1803295645</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-02 13:44:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>4df2ed1ea81d4c07b54bd3d42617e959</sys_id>
+        <sys_metadata>e33f63afdb815090254ebc04b9961904</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Prevent Duplicate Modifications</sys_name>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_parent display_value="Budget Plan Modification">99ff931bdb051090254ebc04b996193e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_scope_delete display_value="">0a86ea71165042bb9daf8deb909f6571</sys_scope_delete>
+        <sys_update_name>sys_script_e33f63afdb815090254ebc04b9961904</sys_update_name>
+        <sys_update_version display_value="sys_script_e33f63afdb815090254ebc04b9961904">0b5dd073db455090254ebc04b9961965</sys_update_version>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-02 13:44:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

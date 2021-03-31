@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Fiscal Calendar" source="com.snc.fiscal_calendar">31cd0a9fdb605410254ebc04b99619d7</dependency>
+        <min_version/>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-31 18:33:05</sys_created_on>
+        <sys_id>11fb22ecdb932c10d5a4c35913961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-31 18:33:05</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="label.x_prop_tbm_federal_budget_plan_mod">c4a7e7b6db6ae810afdb3437b9961911</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[The Revised Budget field will update to show what the updated budget amount is per the increase/decrease amount used.]]></content>
+        <guide/>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"step_view":""}</options>
+        <order>5</order>
+        <placement>bottom</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>zhen.zhu</sys_created_by>
+        <sys_created_on>2021-03-01 15:53:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0a7e7b6db6ae810afdb3437b9961913</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TBM Federal Budget Formulation" source="x_prop_tbm_federal">9b28f931db8d9850254ebc04b9961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TBM Federal Budget Formulation">9b28f931db8d9850254ebc04b9961946</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_c0a7e7b6db6ae810afdb3437b9961913</sys_update_name>
+        <sys_updated_by>zhen.zhu</sys_updated_by>
+        <sys_updated_on>2021-03-01 17:03:32</sys_updated_on>
+        <target/>
+        <target_ref display_value="label.x_prop_tbm_federal_budget_plan_mod">c4a7e7b6db6ae810afdb3437b9961911</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_prop_tbm_federal_budget_plan_modification.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0a7e7b6db6ae810afdb3437b9961913"/>
+</record_update>
